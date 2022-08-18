@@ -1,0 +1,58 @@
+      //버튼 클릭 이벤트 - GNB 메뉴
+      $('.gnb-btn.btn-1').on({
+        click: function(e){
+          e.preventDefault();          
+          $(this).addClass('on');                             
+          if( $('.gnb-btn').not('.btn-1').hasClass('on') ){
+            $('.gnb-btn').not('.btn-1').removeClass('on').addClass('off');
+          }
+          $(this).removeClass('off');
+                                                     
+          $('.sub.sub1').css('display', 'flex');          
+          $('.sub').not('.sub1').css('display', 'none');         
+        }
+      });
+      $('.gnb-btn.btn-2').on({
+        click: function(e){
+          e.preventDefault();                    
+          $(this).addClass('on');                                                   
+          if( $('.gnb-btn').not('.btn-2').hasClass('on') ){
+            $('.gnb-btn').not('.btn-2').removeClass('on').addClass('off');
+          }
+          $(this).removeClass('off');
+
+          $('.sub.sub2').css('display', 'flex');
+          $('.sub').not('.sub2').css('display', 'none');          
+        }
+      });
+      $('.gnb-btn.btn-3').on({
+        click: function(e){
+          e.preventDefault();          
+          $(this).addClass('on');          
+          if( $('.gnb-btn').not('.btn-3').hasClass('on') ){
+            $('.gnb-btn').not('.btn-3').removeClass('on').addClass('off');
+          }
+          $(this).removeClass('off');
+          
+          $('.sub.sub3').css('display', 'flex');
+          $('.sub').not('.sub3').css('display', 'none');  
+        }
+      });
+      $('.gnb-btn.btn-4').on({
+        click: function(e){
+          e.preventDefault();          
+          $(this).addClass('on');                             
+          if( $('.gnb-btn').not('.btn-4').hasClass('on') ){
+            $('.gnb-btn').not('.btn-4').removeClass('on').addClass('off');
+          }
+          $(this).removeClass('off');
+                    
+          $('.sub.sub4').css('display', 'flex');
+          $('.sub').not('.sub4').css('display', 'none');  
+        }
+      });
+
+
+
+
+

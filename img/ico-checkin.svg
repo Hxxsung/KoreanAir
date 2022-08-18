@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>Icon/Line/CheckIn-01</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="MW_MAIN_사전체크인-main-key-visual-1안-Copy-7" transform="translate(-200.000000, -117.000000)">
+            <g id="Icon/Line/CheckIn-01" transform="translate(200.000000, 117.000000)">
+                <polygon id="Fill-1" fill="none" points="0 48 48 48 48 0 0 0"></polygon>
+                <path d="M9,11 L22.779,7.066 C23.318,6.944 23.879,7.461 24,8 C24.017,8.072 24,7.967 24,8.041 L24,10.54 L9,11 Z" id="Stroke-4" stroke="#8BE0F8" stroke-width="2" fill="#8BE0F8" stroke-linejoin="round"></path>
+                <path d="M28,37 L11,37 C10,37 9,36 9,34.2399628 L9,11.4248 L27.7894737,11.4248 C29.0107895,11.4248 30,13 30,13.6096372 C30.0090629,23.7684185 30.0090629,28.8985394 30,29 C29.9604257,29.443041 29.2937591,32.1097077 28,37 Z" id="Stroke-6" stroke="#00256C" stroke-width="2" fill="#00256C" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M13.5,16.5 L25.5,16.5 L25.5,18 L13.5,18 L13.5,16.5 Z M13.5,21 L21.5,21 L21.5,22.5 L13.5,22.5 L13.5,21 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+                <path d="M31.1984557,27.9195144 L39.8872214,25.8289552 L41.1933379,27.1350717 L34.1546068,30.8756655 L37.653685,34.3747437 L41.0204127,33.1835887 L42,34.163176 L37.9290128,36.9290128 L35.163176,41 L34.1835887,40.0204127 L35.3747437,36.653685 L31.8746994,33.1536408 L28.1350717,40.1933379 L26.8289552,38.8881875 L28.9195144,30.1984557 L25.3624724,26.6423798 C24.8224435,26.1013848 24.8939321,25.1527115 25.5228388,24.5228388 C26.1527115,23.8939321 27.1013848,23.8224435 27.6414138,24.3624724 L31.1984557,27.9195144 Z" id="Stroke-2" fill="#8BE0F8"></path>
+            </g>
+        </g>
+    </g>
+</svg>
